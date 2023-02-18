@@ -1,3 +1,6 @@
+JE ne vois pas ton exercice 
+tout est commenté
+
 1---Create a database called public.
     --CREATE DATABASE public;
 2---Add two tables:
